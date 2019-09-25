@@ -4,9 +4,9 @@
 
 `git init`
 
-![](./image/wps1.jpg)
 
- 
+
+ ![wps1](D:\wyy\image\wps1.jpg)
 
 ### **2.拷贝GitHub网站中的项目网址：**
 
