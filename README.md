@@ -6,19 +6,19 @@
 
 ### 1.购买腾讯云服务器
 
-![1](D:\wyy\image\1.png)
+![1](./image/1.png)
 
 ### 2.使用Web Shell登录已购买的云服务器实例
 
-![2](D:\wyy\image\2.png)
+![2](./image/2.png)
 
 ### 3.下载安装Xshell（包含在Xmanager中），并使用 Xshell登录腾讯云实例 
 
 将复制的公网地址输入Xshell中，并登陆
 
-![4](D:\wyy\image\4.png)
+![4](./image/4.png)
 
-![3](D:\wyy\image\3.png)
+![3](./image/3.png)
 
 
 
