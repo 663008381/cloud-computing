@@ -4,15 +4,13 @@
 
 `git init`
 
-![img](D:\wyy\image\wps1.jpg) 
+![](./image/wps1.jpg)
 
  
 
 ### **2.拷贝GitHub网站中的项目网址：**
 
-![img](D:\wyy\image\wps2.jpg) 
-
- 
+![](./image/wps2.jpg)
 
 ### 3.**添加远程代码仓库的URL：**
 
@@ -24,13 +22,13 @@
 
 `git remote -v`
 
-![1569397961633](D:\wyy\image\1569397961633.png)
+![](./image/wps3.png)
 
 ### 4.**首先从远程代码仓库拉取数据**
 
 `git pull origin master`
 
-![1569398028287](D:\wyy\image\wps4.png)
+![](./image/wps4.png)
 
 ### 5.**新建README文档，README文档是每个GitHub项目必备，说明项目内容。上文没有创建，在此处完成。**
 
@@ -40,7 +38,9 @@
 
 `git add .`
 
-![1569398048648](D:\wyy\image\wps5.png)
+![](./image/wps5.png)
+
+
 
 ### 7.**提交文件：**
 
@@ -48,7 +48,9 @@
 
 可以使用`git config user.name "someone"`，`git config user.email "someone@someplace.com"`修改上传者信息
 
-![1569398084046](D:\wyy\image\wps6.png)
+![](./image/wps6.png)
+
+
 
 
 
@@ -58,7 +60,11 @@
 
 `git push -u origin master`
 
-![1569398094561](D:\wyy\image\wps7.png)
+![](./image/wps7.png)
 
-<img src="D:\wyy\image\wps8.png" alt="img" style="zoom:150%;" /> 
+
+
+![](./image/wps8.png)
+
+ 
 
